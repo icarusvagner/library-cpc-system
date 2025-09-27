@@ -36,6 +36,9 @@ npm run format
 ```bash
 quasar build
 ```
+## CPC Library other
+[See CPC Library desktop with Electron](https://github.com/icarusvagner/library-electron-desktop)
+[CPC Library backend](https://github.com/icarusvagner/library-backend)
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
