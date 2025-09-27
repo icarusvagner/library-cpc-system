@@ -37,5 +37,9 @@ npm run format
 quasar build
 ```
 
+## CPC Library Other
+[CPC Library backend](https://github.com/icarusvagner/library-backend)
+[CPC Library desktop](https://github.com/icarusvagner/library-electron-desktop)
+
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
